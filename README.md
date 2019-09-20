@@ -1,10 +1,10 @@
 # codesandbox-nuxt
 
-> Nuxt starter for CodeSandBox (used for https://template.nuxtjs.org)
+This is the official example for [nuxt-lazyimage](https://github.com/regenrek/nuxt-lazyimage) module
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ yarn install
 

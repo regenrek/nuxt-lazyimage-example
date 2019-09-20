@@ -28,7 +28,12 @@ export default {
       ssr: false
     }
   ],
-  modules: ["@nuxt/http", "nuxt-lazyimage", "./codesandbox"],
+  modules: [
+    "@nuxt/http",
+    "nuxt-lazyimage",
+    "@bazzite/nuxt-optimized-images",
+    "./codesandbox"
+  ],
   build: {
     postcss: {
       plugins: {

@@ -12,9 +12,12 @@
     "post-update": "yarn upgrade --latest"
   },
   "dependencies": {
+    "@bazzite/nuxt-optimized-images": "0.2.1",
     "@nuxt/http": "^0.3.0",
+    "imagemin-mozjpeg": "8.0.0",
     "locomotive-scroll": "3.1.5",
     "lodash": "4.17.15",
+    "lqip-loader": "2.2.0",
     "nuxt": "^2.5.1",
     "nuxt-lazyimage": "0.0.8",
     "postcss": "7.0.18",
@@ -22,8 +25,10 @@
     "postcss-loader": "3.0.0",
     "postcss-nested": "4.1.2",
     "reqlim": "^0.0.0",
+    "responsive-loader": "1.2.0",
     "tailwindcss": "1.1.2",
-    "tailwindcss-transitions": "2.1.0"
+    "tailwindcss-transitions": "2.1.0",
+    "webp-loader": "0.5.0"
   },
   "keywords": []
 }
