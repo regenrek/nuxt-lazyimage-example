@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*/ html,
+.application {
+  overflow: hidden;
+}
+
+body {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+#js-scroll {
+  overflow: hidden;
+  box-sizing: border-box;
+  position: relative;
+}
