@@ -6,11 +6,9 @@ export const store = Vue.observable({
 
 export const mutations = {
   shrinkNav() {
-    console.debug("mutation.shrinkNav");
     store.isNavSmall = true;
   },
   growNav() {
-    console.debug("mutation.growNav");
     store.isNavSmall = false;
   }
 };
