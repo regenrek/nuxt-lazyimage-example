@@ -19,7 +19,7 @@
     "lodash": "4.17.15",
     "lqip-loader": "2.2.0",
     "nuxt": "^2.5.1",
-    "nuxt-lazyimage": "0.0.8",
+    "nuxt-lazyimage": "0.0.14",
     "postcss": "7.0.18",
     "postcss-import": "12.0.1",
     "postcss-loader": "3.0.0",

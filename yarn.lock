@@ -5398,6 +5398,14 @@ locomotive-scroll@3.1.5:
     smoothscroll-polyfill "^0.4.4"
     virtual-scroll "git+https://github.com/ayamflow/virtual-scroll.git"
 
+locomotive-scroll@^3.1.7:
+  version "3.1.7"
+  resolved "https://registry.yarnpkg.com/locomotive-scroll/-/locomotive-scroll-3.1.7.tgz#534e28de85b9eeeb94dd6b87122b146691d971e8"
+  integrity sha512-pfzL3H56hqBrdF1WuwhF2ReoZeAMPG1042BuD3GUs0309QGKt5N9up+XHNlPIvVHmMZwzvK3f7wxud4lWY6PnQ==
+  dependencies:
+    smoothscroll-polyfill "^0.4.4"
+    virtual-scroll "git+https://github.com/ayamflow/virtual-scroll.git"
+
 lodash._reinterpolate@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/lodash._reinterpolate/-/lodash._reinterpolate-3.0.0.tgz#0ccf2d89166af03b3663c796538b75ac6e114d9d"
@@ -6107,13 +6115,14 @@ number-is-nan@^1.0.0:
   resolved "https://registry.yarnpkg.com/number-is-nan/-/number-is-nan-1.0.1.tgz#097b602b53422a522c1afb8790318336941a011d"
   integrity sha1-CXtgK1NCKlIsGvuHkDGDNpQaAR0=
 
-nuxt-lazyimage@0.0.8:
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/nuxt-lazyimage/-/nuxt-lazyimage-0.0.8.tgz#7fcbc0647d95a7a41af6d05e3b2ae065376b2388"
-  integrity sha512-dBoy/4EgG2mSk1CZTfAT9T7OLww88AsKm7DtOcD9cjf4CTPj5lzGC//bMHiFipWdZ3wYmLZAZMIZkOxXwh8mGg==
+nuxt-lazyimage@0.0.14:
+  version "0.0.14"
+  resolved "https://registry.yarnpkg.com/nuxt-lazyimage/-/nuxt-lazyimage-0.0.14.tgz#e5ba93e615eca37ecc4fe62dd6de8bfc16778459"
+  integrity sha512-uyz/y2fJ51I2/ZYtvixVbI938uzotQ3ELe7gV7/lAflpOro6TaBK0/d6mMUFxcrYH/Km8N2k9ScYSQ3mPQNbFQ==
   dependencies:
     "@bazzite/nuxt-optimized-images" "^0.2.1"
     lazysizes "^5.1.1"
+    locomotive-scroll "^3.1.7"
     lqip-loader "^2.2.0"
 
 nuxt@^2.5.1:
