@@ -16,7 +16,7 @@
     "@nuxt/http": "^0.3.0",
     "imagemin-mozjpeg": "8.0.0",
     "locomotive-scroll": "3.1.5",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "lqip-loader": "2.2.0",
     "nuxt": "^2.5.1",
     "nuxt-lazyimage": "0.0.14",
