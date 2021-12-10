@@ -5312,9 +5312,9 @@ launch-editor@^2.2.1:
     shell-quote "^1.6.1"
 
 lazysizes@^5.1.1:
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/lazysizes/-/lazysizes-5.1.1.tgz#7ca0266519d531ce740d6782e42faf700883646c"
-  integrity sha512-UCbdRSsozjlS6r56dPMFXX+AW2t8G0duRKxQDwvEpNTrWOHQo56YlTx5ssT7epU87PoruF1q9tvW3kSbQjorMw==
+  version "5.3.2"
+  resolved "https://registry.yarnpkg.com/lazysizes/-/lazysizes-5.3.2.tgz#27f974c26f5fcc33e7db765c0f4930488c8a2984"
+  integrity sha512-22UzWP+Vedi/sMeOr8O7FWimRVtiNJV2HCa+V8+peZOw6QbswN9k58VUhd7i6iK5bw5QkYrF01LJbeJe0PV8jg==
 
 lethargy@^1.0.2:
   version "1.0.7"
